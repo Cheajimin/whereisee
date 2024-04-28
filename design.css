@@ -1,3 +1,16 @@
+@media screen and (max-width: 900px) {
+	img {
+		width: 250px !important;
+	}
+	.main_p {
+		font-size: 13px !important;
+	}
+	ul {
+		font-size: 10px !important;
+	}
+}
+
+
 header {
 		color: mediumpurple;
 		text-align: center;
